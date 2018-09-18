@@ -1,7 +1,7 @@
 # Pocket_League
 Build a wireless controlled car capable of playing Rocket League.
 
-## Arduino IDE and RF24 setup
+### Arduino IDE and RF24 setup
 
 1. Download arduino IDE https://www.arduino.cc/en/Main/Software
 
