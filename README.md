@@ -9,6 +9,7 @@ Get Arduino up and running
 
 3. Download the library 
 
+![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/rf24.PNG)
 
 
 
