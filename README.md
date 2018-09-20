@@ -1,6 +1,6 @@
 # Pocket_League
 Build a wireless controlled car capable of playing Rocket League.
-![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/Pocket_car.jpg){width=50%}
+![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/Pocket_car.jpg " width=50% ")
 
 ### Arduino IDE and RF24 setup
 
