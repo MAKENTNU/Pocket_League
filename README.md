@@ -18,13 +18,10 @@ Build a wireless controlled car capable of playing Rocket League.
   <img src="https://github.com/MAKENTNU/Pocket_League/blob/master/img/bibliotek.PNG" width="50%">
 </p>
 
+<br></br>
+
 <p align="center">
   <img src="https://github.com/MAKENTNU/Pocket_League/blob/master/img/rf24.PNG" width="50%">
 </p>
-
-![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/bibliotek.PNG)
-![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/rf24.PNG)
-
-
 
 
