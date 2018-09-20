@@ -2,6 +2,10 @@
 Build a wireless controlled car capable of playing Rocket League.
 ![pavlovs-lab](https://github.com/MAKENTNU/Pocket_League/blob/master/img/Pocket_car.jpg width="50%")
 
+<p align="center">
+  <img src="https://github.com/MAKENTNU/Pocket_League/blob/master/img/Pocket_car.jpg" width="256">
+</p>
+
 ### Arduino IDE and RF24 setup
 
 1. Download arduino IDE https://www.arduino.cc/en/Main/Software
