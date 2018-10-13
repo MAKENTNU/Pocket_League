@@ -69,7 +69,7 @@ void loop(void) {
       sendArray[5] = 1;
     }
 
-    
+    /*
     Serial.print(sendArray[0]);
     Serial.println(" left ");
     Serial.print(sendArray[1]);
@@ -82,9 +82,9 @@ void loop(void) {
     Serial.println(" pinTriggerDown ");
     Serial.print(sendArray[5]);
     Serial.println(" pinTriggerUp ");
-    
+    */
 
     radio.write(&sendArray, sizeof(sendArray));
-    delay(150);
+    //delay(150);
 
 }
